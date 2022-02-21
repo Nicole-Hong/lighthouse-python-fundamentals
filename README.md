@@ -1,10 +1,13 @@
 # lighthouse-python-fundamentals
 
-This is README.md file.
+This is a README.md file.
 
 
 Hello, it is me, Nicole!
 
 
 
-Cat is orange!
+Cat is white!
+
+
+
