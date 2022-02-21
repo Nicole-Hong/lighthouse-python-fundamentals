@@ -7,4 +7,4 @@ Hello, it is me, Nicole!
 
 
 
-Cat is black!
+Cat is orange!
